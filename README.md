@@ -1,2 +1,4 @@
 # Personal
-It's a repertoire that I upload when I study or when I'm bored.
+================
+
+개인적으로 공부한 것들을 올리는 레퍼지토리입니다.
