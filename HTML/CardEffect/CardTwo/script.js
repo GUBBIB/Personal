@@ -21,7 +21,6 @@ container2.addEventListener('mousemove', function(e){
     var y = e.offsetY
     var rotateY = -1/5 * x + 20
     var rotateX = 4/30 * y - 20
-    console.log(x, y)
     overlay2.style = `background-position : ${x/5 + y/5}%`
     container2.style = `transform : perspective(350px) rotateX(${rotateX}deg) rotateY(${rotateY}deg)`
 })
