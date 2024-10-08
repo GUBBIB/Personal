@@ -9,9 +9,9 @@
 
 ## 참고 영상및 싸이트
 
-**[코딩애플 - 바로 쿠팡 취업가능한 포트폴리오 만들기(상하차포지션)](https://www.youtube.com/watch?v=YDCCauu4lIk&t=424s&ab_channel=%EC%BD%94%EB%94%A9%EC%95%A0%ED%94%8C)**
+- **[코딩애플 - 바로 쿠팡 취업가능한 포트폴리오 만들기(상하차포지션)](https://www.youtube.com/watch?v=YDCCauu4lIk&t=424s&ab_channel=%EC%BD%94%EB%94%A9%EC%95%A0%ED%94%8C)**
 
-**[Pokemon Cards CSS Holographic Effect](https://poke-holo.simey.me/)**
+- **[Pokemon Cards CSS Holographic Effect](https://poke-holo.simey.me/)**
 
-**[제작자 깃허브[Simon Goellner]](https://github.com/simeydotme/pokemon-cards-css)**
+- **[제작자 깃허브[Simon Goellner]](https://github.com/simeydotme/pokemon-cards-css)**
 
