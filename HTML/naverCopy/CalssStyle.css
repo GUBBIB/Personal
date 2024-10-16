@@ -1,0 +1,34 @@
+#wrap {
+    width: 1340px;
+}
+
+#header {
+    width: 1280px;
+    margin: 0 auto;
+}
+
+#menuBar {
+    margin-left: 30px;
+}
+
+#menuBar div {
+    display: grid;
+    align-items: center;
+    margin-top: 20px;
+    width: 48px;
+    height: 48px;
+}
+
+#menuBar button, a {
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+    border: 1px solid black;
+    border-radius: 19px;
+    padding: 8px;
+}
+
+#menuBar div:hover{
+    background-color: rgb(189, 189, 189);
+    border-radius: 25px;
+}

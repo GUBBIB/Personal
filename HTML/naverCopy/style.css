@@ -1,0 +1,12 @@
+@import url(CalssStyle.css);
+@import url(IdStyle.css);
+
+html, head, body {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
