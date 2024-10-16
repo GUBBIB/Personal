@@ -1,1 +1,6 @@
-![www naver com_ (1)](https://github.com/user-attachments/assets/de746c5e-028f-4891-84b4-187f2dd6d8d0)
+
+<details>
+  <smmary>사진</smmary>
+
+  ![www naver com_ (2)](https://github.com/user-attachments/assets/1e901bfe-f8fb-480c-821a-24f0a13d64df)
+</details>
