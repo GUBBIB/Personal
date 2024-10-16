@@ -2,7 +2,7 @@
 ==========
 
 
-- **[네이버 카피 페이지](https://gubbib.github.io/Personal/HTML/naverCopy/index.html)**
+- **[네이버 카피 페이지](https://gubbib.github.io/Personal/HTML/naverCopy/index.html){:target="_blank"}**
 
 <details>
   <summary>사진</summary>
