@@ -1,7 +1,8 @@
 네이버 메인페이지를 Copy 해봤습니다.
 ==========
 
-
+- **<a href="https://gubbib.github.io/Personal/HTML/naverCopy/index.html" target="_blank">네이버 카피 페이지</a>**
+  
 - **[네이버 카피 페이지](https://gubbib.github.io/Personal/HTML/naverCopy/index.html){:target="_blank"}**
 
 <details>
